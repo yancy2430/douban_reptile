@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.47">
+    <archive path="/Users/yangzhe/douban_reptile/src/main/libs/mysql-connector-java-5.1.47.jar" />
+  </library>
+  <library name="jsoup-1.12.1">
+    <archive path="/Users/yangzhe/douban_reptile/src/main/libs/jsoup-1.12.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
